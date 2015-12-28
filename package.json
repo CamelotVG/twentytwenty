@@ -1,0 +1,22 @@
+{
+  "name": "twentytwenty",
+  "version": "1.0.0",
+  "description": "Include the javascript and css files.",
+  "main": "js/jquery.twentytwenty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamelotVG/twentytwenty.git"
+  },
+  "author": "zurb",
+  "dependencies": {
+    "jquery.event.move"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamelotVG/twentytwenty/issues"
+  },
+  "homepage": "https://github.com/CamelotVG/twentytwenty#readme"
+}
