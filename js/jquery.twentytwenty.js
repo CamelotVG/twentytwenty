@@ -1,4 +1,5 @@
 (function($){
+  require('./jquery.event.move.js');
 
   $.fn.twentytwenty = function(options) {
     var options = $.extend({default_offset_pct: 0.5, orientation: 'horizontal'}, options);
