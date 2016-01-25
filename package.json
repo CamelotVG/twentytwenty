@@ -11,9 +11,6 @@
     "url": "git+https://github.com/CamelotVG/twentytwenty.git"
   },
   "author": "zurb",
-  "dependencies": {
-    "jquery.event.move"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CamelotVG/twentytwenty/issues"
